@@ -92,7 +92,7 @@ Bridging <b>Machine Learning</b> and <b>Software Engineering</b> — building in
 
 <p>
 <a href="https://github.com/Selvarajah-Vinushaanth"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/selvarajah-vinushaanth/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ---

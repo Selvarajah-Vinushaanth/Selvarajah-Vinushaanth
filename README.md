@@ -78,9 +78,6 @@ Bridging <b>Machine Learning</b> and <b>Software Engineering</b> — building in
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Selvarajah-Vinushaanth&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvarajah-Vinushaanth&theme=tokyonight"/>

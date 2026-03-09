@@ -79,11 +79,11 @@ Bridging <b>Machine Learning</b> and <b>Software Engineering</b> — building in
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Selvarajah-Vinushaanth&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvarajah-Vinushaanth&theme=tokyonight"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Bridging <b>Machine Learning</b> and <b>Software Engineering</b> — building in
 📍 Colombo, Sri Lanka  
 
 <p>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/Selvarajah-Vinushaanth"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 

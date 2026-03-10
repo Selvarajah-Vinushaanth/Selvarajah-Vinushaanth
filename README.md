@@ -65,6 +65,13 @@
 
 ---
 
+### 🌐 Portfolio
+
+🚀 **Explore my full portfolio:**  
+🔗 https://vinushaanth-digital-showcase.vercel.app/
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Description |
@@ -94,6 +101,7 @@
 <p align="center">
 <a href="https://github.com/Selvarajah-Vinushaanth"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
 <a href="https://www.linkedin.com/in/selvarajah-vinushaanth/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+<a href="https://vinushaanth-digital-showcase.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="30"/></a>
 </p>
 
 ---
